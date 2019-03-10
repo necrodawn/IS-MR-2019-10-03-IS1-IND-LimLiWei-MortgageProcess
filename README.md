@@ -11,7 +11,7 @@
 | Lim Li Wei | A0087855L |E0319479@u.nus.edu
 
 ---
-## SECTION 5 : USER GUIDE
+## SECTION 3 : USER GUIDE
 
 ### [ 1 ] To run the system using iss-vm
 
